@@ -1397,8 +1397,9 @@ pre code {
   }
 
 .col-md-13{
-  width: 100%;
   background: rgb(253, 144, 39);
+  box-sizing: border-box;
+  width:100%;
 }
 
 
